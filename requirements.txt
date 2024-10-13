@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+PuLP==2.8.0
+qrcodegen==1.8.0
+reedsolo==1.7.0
